@@ -15,5 +15,5 @@ public record Student(
         return this.SID == other.SID;
     }
 
-    
+
 }
